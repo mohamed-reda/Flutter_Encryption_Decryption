@@ -14,7 +14,7 @@ It's an example for the Encryption with Flutter, tried 3 types of encryptions:
 
 
 
-## the Libraries
+## The Libraries
 | Libraries     | Libraries use |
 | ------------- | ------------- |
 | encrypt       | to encrypt the text to 3 types of the Encryption |
