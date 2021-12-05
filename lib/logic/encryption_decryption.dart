@@ -46,9 +46,9 @@ class MyEncryptionDecryption {
 
   static encryptSalsa20(text) {
     final encrypted = encrypteSalsa20.encrypt(text, iv: ivSalsa20);
-    // print(encrypted.bytes);
-    // print(encrypted.base16);
-    // print(encrypted.base64);
+    print(encrypted.bytes);
+    print(encrypted.base16);
+    print(encrypted.base64);
     return encrypted;
   }
 

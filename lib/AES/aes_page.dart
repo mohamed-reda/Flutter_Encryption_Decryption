@@ -3,16 +3,15 @@ import 'package:encryption_decryption/logic/encryption_decryption.dart';
 import 'package:flutter/material.dart';
 import 'package:encrypt/encrypt.dart' as encrypt;
 
-class AESPage extends StatefulWidget {
+class EncryptionPage extends StatefulWidget {
   @override
-  _AESPageState createState() => _AESPageState();
+  _EncryptionPageState createState() => _EncryptionPageState();
 }
 
-class _AESPageState extends State<AESPage> {
+class _EncryptionPageState extends State<EncryptionPage> {
   TextEditingController tec = TextEditingController();
   String plainText = '';
   var encryptedText;
-
   var fernetText;
   var Salsa20Text;
 

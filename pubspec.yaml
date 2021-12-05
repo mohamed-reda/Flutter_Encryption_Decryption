@@ -30,7 +30,6 @@ dependencies:
   flutter:
     sdk: flutter
   encrypt: 5.0.1
-  string_validator: ^0.3.0
 
 
   # The following adds the Cupertino Icons font to your application.
