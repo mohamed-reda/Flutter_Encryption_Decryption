@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'AES/aes_page.dart';
+import 'Encryption/aes_page.dart';
 
 void main() {
   runApp(MyApp());
