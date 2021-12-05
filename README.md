@@ -1,16 +1,24 @@
-# encryption_decryption
+# Flutter Encryption/Decryption
 
-A new Flutter project.
+It's an example for the Encryption with Flutter, tried 3 types of encryptions:
+1. AES encryptions
+2. Fernet encryptions
+3. Salsa20 encryptions
 
-## Getting Started
+## The App structure
+| Folders     |  contents |
+| ------------- | ------------- |
+| Encryption pages | contents the ui pages      |
+| common_ui | contents the common Widgets      |
+| logic | contents the logic statement that deals with the Encryption library      |
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## the Libraries
+| Libraries     | Libraries use |
+| ------------- | ------------- |
+| encrypt       | to encrypt the text to 3 types of the Encryption |
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<img src="https://user-images.githubusercontent.com/15935347/144764771-3beed31d-eec0-46d4-b7df-4d4afd49423c.png"  width="300" height="550" />             <img src="https://user-images.githubusercontent.com/15935347/144764775-f9a1077b-f0d4-4d94-bff5-c39da587f783.png"  width="300" height="550" />  
