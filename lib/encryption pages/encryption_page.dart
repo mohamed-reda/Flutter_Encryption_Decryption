@@ -1,4 +1,4 @@
-import 'package:encryption_decryption/commen_ui/text_and_encrypted.dart';
+import 'package:encryption_decryption/common_ui/text_and_encrypted.dart';
 import 'package:encryption_decryption/logic/encryption_decryption.dart';
 import 'package:flutter/material.dart';
 import 'package:encrypt/encrypt.dart' as encrypt;
